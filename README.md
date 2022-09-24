@@ -1,5 +1,5 @@
 # python-circle
-A Python program to generate circles of a specified diameter, thickness and weight (0-3).
+A Python program to generate circles in the command line of a specified diameter, thickness and weight (0-3), using the equation of a circle.
 
 Nothing advanced (8 lines of code), just thought it was pretty cool :)
 
